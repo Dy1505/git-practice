@@ -1,3 +1,6 @@
 # Git Practice
 so thich: ngu
 Ky nang: ngu
+Ho va ten: Nguyen Binh Phuong Duy
+So thich: ngu
+ky nang: ngu
